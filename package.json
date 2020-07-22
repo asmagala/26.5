@@ -1,0 +1,8 @@
+{
+  "name": "@asmagala/randomid-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/asmagala/26.5.git",
+  "author": "asmagala <asmagala@op.pl>",
+  "license": "MIT"
+}
